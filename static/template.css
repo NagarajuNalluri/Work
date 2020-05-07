@@ -1,0 +1,18 @@
+#grad {
+    background-image: linear-gradient(90deg,rgb(0,23,0), rgba(23, 13, 13, 0.616));
+    margin:0 0 0 0;
+    text-align: left;
+  }
+
+  .Container {margin: auto;    width: 835px;    border: 0px solid gray;    padding: 10px;color:whitesmoke}
+  .Header {font: 23px Arial, Helvetica, sans-serif;text-align:center;margin-top:30px;}
+
+  table {color:whitesmoke;font: 12px arial;font-weight: bold;padding:0;margin:0;border:1px solid white}
+  .Navigation {background:rgb(116,173,169);margin-top:20px;color:white}
+  .cellone {padding:5px 30 5 50}
+  .celltwo{width:2px;background:whitesmoke;margin:0;}
+  .cellone a {color:whitesmoke;font:bold 12px arial;text-decoration: none;font-weight:bold;}
+  .content {font:40px bold Helvetica, sans-serif;padding:100px 0 0 0;text-align: center;}
+  .button a {background:rgb(116,173,169);padding:10px;color:white;text-decoration: none;font-weight:bold;font:18px normal Helvetica, sans-serif;border:0px solid white}
+
+
